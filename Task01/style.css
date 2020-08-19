@@ -1,0 +1,136 @@
+@charset "utf-8" ;
+
+
+body {
+    font-family: sans-serief;
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 30px;
+    padding: 0.5em;
+    color: #010101;
+    background: #eaf3ff;
+    border-bottom: solid 3px #FF9900;
+}
+
+h2 {
+    padding: 0.25em 0.5em;
+    color: #494949;
+    background: transparent;
+    border-left: solid 5px #FFFF66;
+}
+
+h3 {
+    margin-top: 2.5em;
+    font-weight: bold;
+    margin-bottom: 2em;
+    position: relative;
+    padding: 0.6em;jjk
+    background: #e0edff;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+hr {
+    border-top: 3px solid #7db4e6;
+    margin-top: 3rem;
+    margin-bottom 3rem
+}
+
+.header {
+    padding: 1em;
+    background: #7db4e6;
+    border: 10px double #ccc;
+}
+
+.color {
+    width: 75%;
+    padding: 0.5em;
+    background: #e0edff; 
+}
+
+.float-box {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 0.5em;
+    vertical-align: baseline;
+}
+
+.float-clear {
+    overflow: hidden;
+}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.item {
+    float: left;
+    margin: 8px 0 8px 8px;
+    padding: 8px;
+    width: 300px;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.icon a[target="_blank"]::after{
+    content: url(images/opentab.png)
+}
+
+.headline {
+    text-align: center;
+}
+
+.list {
+    padding: 0.8em;
+    border: 7px double #FF9900;
+}
+
+.list h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.breadcrumb ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.breadcrumb li {
+    display: inline;
+}
+
+.breadcrumb li::after {
+    content: ">>";
+    color: #999;
+}
+
+.breadcrumb li:last-child::after {
+    content: none;
+}
+
+.breadcrumb a {
+    text-decoration: none;
+    color: #1864b9
+}
+
+a {
+    color: #0073bc;
+}
+
+a:hover {
+    color: #b7dbf2;
+}
+
+a:active {
+    color: #4ca4e8;
+}
