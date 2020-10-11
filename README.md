@@ -3,7 +3,7 @@
 
 ## ファイル内容
 
-- [CHAPTER01 課題 「Windows環境でHTMLを作ってみよう」](https://github.com/n20010/webextension/blob/master/chapter01/ch01-firsthtml-win.html)
+- [CHAPTER01 課題 「Windows環境でHTMLを作ってみよう」](chapter01/ch01-firsthtml-win.html)
 
 - [CHAPTER02 課題 「Linux環境でHTMLを作ってみよう」](https://github.com/n20010/webextension/blob/master/chapter02/ch02-firsthtml-linux.html)
 
