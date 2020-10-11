@@ -3,7 +3,7 @@
 
 ## ファイル内容
 
-- <a href=://github.com/n20010/webextension/tree/master/chapter01>CHAPTER01 課題 「Windows環境でHTMLを作ってみよう」</a>
+- <a href=https://github.com/n20010/webextension/blob/master/chapter01/ch01-firsthtml-win.html>CHAPTER01 課題 「Windows環境でHTMLを作ってみよう」</a>
 
 - <a href=https://github.com/n20010/webextension/tree/master/chapter02>CHAPTER02 課題 「Linux環境でHTMLを作ってみよう」</a>
 
