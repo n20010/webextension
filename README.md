@@ -11,14 +11,14 @@
 
 - [CHAPTER04 課題 「自己紹介ページ」](https://github.com/n20010/webextension/blob/master/chapter04/ch04-markuptag1.html)
 
-- <a href=https://github.com/n20010/webextension/tree/master/chapter05>CHAPTER05 課題 「リンク、画像、コメント、特殊文字」</a>
+- [CHAPTER05 課題 「リンク、画像、コメント、特殊文字」](https://github.com/n20010/webextension/blob/master/chapter05/ch05-markuptag2.html)
 
-- <a href=https://github.com/n20010/webextension/tree/master/chapter06>CHAPTER06 課題 「ページにCSSを適用するトレーニング」</a>
+- [CHAPTER06 課題 「ページにCSSを適用するトレーニング」](https://github.com/n20010/webextension/blob/master/chapter06/index.html)
 
-- <a href=https://github.com/n20010/webextension/tree/master/chapter07>CHAPTER07 課題 「テキストの装飾」</a>
+- [CHAPTER07 課題 「テキストの装飾」](https://github.com/n20010/webextension/blob/master/chapter07/ch07-fontsytle.html)
 
-- <a href=https://github.com/n20010/webextension/tree/master/chapter08>CHAPTER08 課題 「リンクの設定と画像の表示」</a>
+- [CHAPTER08 課題 「リンクの設定と画像の表示」](https://github.com/n20010/webextension/blob/master/chapter08/ch08-linkimg.html)
 
-- <a href=https://github.com/n20010/webextension/tree/master/chapter09>CHAPTER09 課題 「ボックスと情報の整理」</a>
+- [CHAPTER09 課題 「ボックスと情報の整理」](https://github.com/n20010/webextension/blob/master/chapter09/ch09-boxcss.html)
 
-- <a href=https://github.com/n20010/webextension/tree/master/chapter010>CHAPTER10 課題 「テーブル」</a>
+- [CHAPTER10 課題 「テーブル」](https://github.com/n20010/webextension/blob/master/chapter10/ch10-table.html)
