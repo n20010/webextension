@@ -24,3 +24,5 @@
 - [CHAPTER10 課題 「テーブル」](chapter10/ch10-table.html)
 
 - [CHAPTER11 課題 「フォーム」](chapter11/ch11-form.html)
+
+- [CHAPTER12 課題　「ページ全体のレイアウトとナビゲーション」](chapter12/index.html)
