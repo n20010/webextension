@@ -180,3 +180,90 @@ footer {
   opacity: 0.5;
 }
 
+/* indexトップページ */
+
+/* キャッチコピー */
+
+.home-maincopy {
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+.home-maincopy strong {
+  color: #c84040
+}
+
+@media screen and (min-width: 768px) {
+  .home-maincopy {
+    font-size: 2.4rem;
+  }
+}
+
+.home-color1 {
+  color: #f8b173;
+}
+
+.home-color2 {
+  color: #74b9d9;
+}
+
+.home-color3 {
+  color: #8bca85;
+}
+
+.home-color4 {
+  color: #f8817e;
+}
+
+/* 見出し */
+.home-h2 {
+  padding-bottom: 5px;
+  margin: 30px 0 10px 0;
+  color: #c84040;
+  border-bottom: 1px dashed #c84040;
+  font-size: 1.3rem;
+}
+
+/* お知らせ */
+.home-news {
+  padding: 30px;
+  border-radius: 10px;
+  background: #fff;
+}
+
+/* コース紹介　*/
+.home-course {
+  display: flex;
+  flex-flow: column;
+}
+
+.home-course li {
+  flex: 1 1 auto;
+  margin: 0 2px 4px 2px;
+  border: solid 5px #fff;
+  list-style-type: none;
+  background: #fff;
+}
+
+/* 画面幅が広い（タブレット向け）*/
+@media screen and (min-width: 768px) {
+  .home-course {
+    flex-flow: row;
+  }
+}
+
+.home-course a {
+  color: #393939;
+  text-decoration: none;
+}
+
+.home-course figure:hover {
+  opacity: 0.5;
+}
+
+.home-course figcaption {
+  padding: 15px 0;
+  font-size: 0.9rem;
+  font-weight: bold;
+  font-align: center;
+}
