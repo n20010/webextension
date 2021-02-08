@@ -26,3 +26,5 @@
 - [CHAPTER11 課題 「フォーム」](chapter11/ch11-form.html)
 
 - [CHAPTER12 課題 「ページ全体のレイアウトとナビゲーション」](chapter12/index.html)
+
+- [CHAPTER13 課題 「レスポンシブWebデザインのページを作成しよう」](chapter13/index.html)
